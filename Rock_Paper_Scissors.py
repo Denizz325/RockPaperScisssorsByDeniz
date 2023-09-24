@@ -44,4 +44,3 @@ if player_move == computer_move:
 else:
     print("You loose")
 
-gc
