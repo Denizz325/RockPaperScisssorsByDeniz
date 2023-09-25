@@ -21,4 +21,4 @@ You can choose one of three options with your keyboard:
 
 - S for scissors
 
-
+Computer choose randon option
