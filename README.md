@@ -11,4 +11,14 @@ Rock, paper, scissors is simple two players game, where you and your opponent ch
 
 - Paper beats rock(paper covers rock)
 
+## Inputs:
+
+You can choose one of three options with your keyboard:
+
+- R for rock
+
+- P for paper
+
+- S for scissors
+
 
